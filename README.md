@@ -23,12 +23,7 @@ demo_shell qr
 ```
 
 ```
-# get qrcode by String
-demo_shell getqr [String]
-```
-
-```
-# remove qrcode tools in global
+# remove qrcode tools in global and unlink
 demo_shell remove
 ```
 
